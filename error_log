@@ -1,0 +1,741 @@
+[14-Dec-2021 22:23:22 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:22 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:22 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:50 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:23:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:48 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:53 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:53 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:25:53 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:00 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:26 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:26 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:32 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:42 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:42 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:42 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:46 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:46 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:46 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:48 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:53 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:53 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:53 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:55 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:55 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:55 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:56 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:57 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:59 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:26:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:01 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:02 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:03 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:11 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:12 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:12 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:12 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:43 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:52 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:52 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:27:52 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:28:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:28:32 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:28:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:29:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:29:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:29:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:30:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:11 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:27 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:30:27 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:30:27 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:30:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:32 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:32 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:30:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:31:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:31:15 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:31:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:32:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:32:15 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:32:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:32:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:32:54 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:32:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:33:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:33:00 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:33:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:33:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:33:30 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:33:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:44 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:45 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:58 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:58 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:35:58 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:36:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:36:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:36:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:44:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:44:54 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:44:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:45:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:45:36 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:45:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:45:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:45:57 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:45:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:49:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:49:51 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:49:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 22:49:52 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:49:52 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 22:49:52 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:02:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:02:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:02:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:03:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:03:19 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:03:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:03:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:03:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:03:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:38:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:38:26 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:38:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:41:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:41:08 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:41:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:41:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:41:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:41:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:42:12 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:42:12 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:42:12 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[14-Dec-2021 23:42:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:42:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:42:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:43:07 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:43:07 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:43:07 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:48:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:48:19 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[14-Dec-2021 23:48:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 00:53:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 00:53:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 00:53:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 00:53:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[15-Dec-2021 00:53:23 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[15-Dec-2021 00:53:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[15-Dec-2021 01:18:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 01:18:00 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 01:18:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 06:51:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 06:51:01 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 06:51:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 14:58:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 14:58:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 14:58:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 16:42:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 16:42:36 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 16:42:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:49:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:49:50 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:49:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:51:10 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:51:10 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:51:10 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:52:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:52:03 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:52:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:53:27 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:53:27 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:53:27 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:56:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:56:59 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:56:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:57:46 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:57:46 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:57:46 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:57:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:57:51 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:57:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:58:33 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:58:33 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:58:33 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:58:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[15-Dec-2021 17:58:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 140
+[15-Dec-2021 17:58:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 140
+[15-Dec-2021 17:59:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:59:30 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:59:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:59:31 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[15-Dec-2021 17:59:31 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[15-Dec-2021 17:59:31 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[15-Dec-2021 17:59:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:59:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 17:59:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:03:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:03:51 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:03:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:42:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:42:26 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:42:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:43:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:43:08 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:43:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:43:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:43:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:43:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:46:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:46:48 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:46:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:53:58 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:53:58 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:53:58 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:56:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:56:49 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:56:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:57:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:57:23 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 18:57:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 20:09:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 20:09:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 20:09:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 20:09:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 20:09:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 20:09:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:24:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:24:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:24:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:27:05 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:27:05 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:27:05 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[15-Dec-2021 21:27:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[15-Dec-2021 21:27:34 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[15-Dec-2021 21:27:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 00:13:31 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 00:13:31 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 00:13:31 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 02:44:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 02:44:13 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 02:44:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 02:44:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 02:44:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 02:44:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 03:50:27 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 03:50:27 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 03:50:27 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 06:18:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 07:43:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 07:43:23 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 07:43:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 10:33:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 10:33:21 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 10:33:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 11:20:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 11:20:18 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 11:20:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 13:19:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 13:19:59 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 13:19:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 13:58:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 13:58:02 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 13:58:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 14:07:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 14:07:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 14:07:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 15:46:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 15:46:11 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 15:46:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:18 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:19 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 16:02:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:14:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:14:08 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:14:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:14:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:14:11 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:14:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:15:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:15:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:15:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:16:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 17:16:06 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 17:16:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[16-Dec-2021 17:16:24 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:16:24 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:16:24 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:55:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:55:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 17:55:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 20:40:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 20:40:13 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 20:40:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 20:40:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 20:40:30 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 20:40:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 21:47:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 21:47:49 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[16-Dec-2021 21:47:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 01:35:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 01:35:06 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 01:35:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 02:06:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 02:06:13 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 02:06:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 09:25:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 09:25:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 09:25:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 09:44:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 09:44:34 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 09:44:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 11:32:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 11:32:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 11:32:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 11:32:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 11:32:56 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 11:32:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 12:13:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 12:13:49 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 12:13:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 13:54:42 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 13:54:42 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 13:54:42 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 18:01:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 18:01:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 18:01:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:30 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:57 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:20:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:25:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:25:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:25:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:25:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:25:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 21:25:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:15 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[17-Dec-2021 22:55:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:17:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:17:45 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:17:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:17:58 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:17:58 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:17:58 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:18:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:18:06 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:18:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:20:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:20:01 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 11:20:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 12:37:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 12:37:08 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 12:37:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 15:46:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 15:46:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 15:46:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 18:26:39 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 18:26:39 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[18-Dec-2021 18:26:39 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 00:24:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 00:24:48 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 00:24:48 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 02:03:46 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 02:03:46 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 02:03:46 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 03:01:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 03:01:08 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 03:01:08 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 03:05:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 03:05:49 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 03:05:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 05:00:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 05:00:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 05:00:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 07:43:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 07:43:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 07:43:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:49:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:49:19 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:49:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:49:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:49:19 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:49:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:58:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:58:03 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 09:58:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 10:13:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 10:13:45 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 10:13:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:15:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:15:43 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:15:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:20:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:20:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:20:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:22:20 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:22:20 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 11:22:20 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 14:41:38 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 14:41:38 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 14:41:38 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 20:45:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 20:45:36 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 20:45:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 21:04:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 23:48:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 23:48:23 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[19-Dec-2021 23:48:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 01:24:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 01:24:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 01:24:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 03:17:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 03:17:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 03:17:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 04:14:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 04:14:57 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 04:14:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 04:14:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 04:14:57 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 04:14:57 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 06:15:55 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 06:15:55 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 06:15:55 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 06:16:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 06:16:15 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 06:16:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 11:29:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 11:29:50 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 11:29:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 11:33:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 11:33:13 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 11:33:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 13:14:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 13:14:18 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 13:14:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 14:49:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 14:49:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 14:49:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 14:50:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 14:50:15 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 14:50:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 16:53:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 16:53:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 16:53:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 16:53:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 16:53:54 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 16:53:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 19:17:07 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 19:17:07 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[20-Dec-2021 19:17:07 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 03:33:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 03:33:11 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 03:33:11 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 04:20:10 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 04:20:10 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 04:20:10 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 07:09:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 07:09:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 07:09:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:44 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:44 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:45 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:27:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:39:07 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:39:07 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:39:07 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:40:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:40:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 11:40:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 12:05:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 12:05:43 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 12:05:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 12:06:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 12:06:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 12:06:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 17:16:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 17:16:02 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[21-Dec-2021 17:16:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:19:12 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:19:12 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:19:12 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:46:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:46:44 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:46:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:49:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:49:03 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:49:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:50:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:50:29 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 01:50:29 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:11:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:11:21 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:11:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:32 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:33 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:33 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:33 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:34 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:35 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:35 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:35 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:36 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:36 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:43 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:43 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:47 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:47 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:47 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:49 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:12:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:51 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:12:51 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:13:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:01 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:03 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:03 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:06 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:13:06 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:15:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:15:02 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:15:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:15:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:15:19 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:15:19 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:19:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:19:40 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:19:40 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 02:19:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:19:50 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 02:19:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 03:01:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:01:23 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:01:23 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:02:38 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:02:38 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:02:38 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:21:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:21:15 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:21:15 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:21:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:21:25 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 03:21:25 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:02:05 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:02:05 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:02:05 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:04:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:04:18 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:04:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:04:24 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:04:24 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 04:04:24 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 05:14:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 05:14:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 05:14:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 08:13:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 08:13:54 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 08:13:54 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 09:15:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 09:15:44 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 09:15:44 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 11:43:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 11:43:32 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 11:43:32 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 11:44:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 11:44:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 11:44:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 12:12:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 12:12:13 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 12:12:13 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 12:12:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 12:12:49 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 12:12:49 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 13:03:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 13:03:21 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 13:03:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 13:42:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 13:42:34 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 13:42:34 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:08:17 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:08:17 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:08:18 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:08:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 16:08:21 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 16:08:21 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 146
+[22-Dec-2021 16:42:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:42:50 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:42:50 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:44:28 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:44:28 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:44:28 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:44:33 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 16:44:33 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 16:44:33 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 16:47:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:26 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:28 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 16:47:28 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 16:47:28 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 16:47:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:30 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:30 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:37 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:37 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:47:37 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:55:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:55:00 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 16:55:00 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 17:58:20 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 17:58:20 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 17:58:20 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 18:47:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 18:47:59 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 18:47:59 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 18:53:05 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 18:53:05 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 18:53:05 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 19:56:42 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 19:56:42 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 19:56:42 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 22:15:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 22:15:02 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 22:15:02 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 22:15:47 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 22:15:47 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 22:15:47 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/english.php on line 143
+[22-Dec-2021 22:41:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 22:41:14 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[22-Dec-2021 22:41:14 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 01:26:09 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 01:26:09 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 01:26:09 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 02:53:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 02:53:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 02:53:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 03:03:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 03:03:56 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 03:03:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 03:29:47 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 03:29:47 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 03:29:47 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 07:17:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 07:17:26 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 07:17:26 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 09:02:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 09:02:16 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 09:02:16 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 09:13:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 09:13:56 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 09:13:56 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 10:28:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 10:28:45 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 10:28:45 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 11:11:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 11:11:41 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 11:11:41 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 11:12:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 11:12:01 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 11:12:01 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 14:56:38 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘HTTP_ACCEPT_ENCODING’ - assumed '‘HTTP_ACCEPT_ENCODING’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 14:56:38 Europe/Istanbul] PHP Notice:  Undefined index: ‘HTTP_ACCEPT_ENCODING’ in /home/u0447354/public_html/index.php on line 46
+[23-Dec-2021 14:56:38 Europe/Istanbul] PHP Warning:  Use of undefined constant ‘gzip’ - assumed '‘gzip’' (this will throw an Error in a future version of PHP) in /home/u0447354/public_html/index.php on line 46

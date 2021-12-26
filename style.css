@@ -1,0 +1,270 @@
+html,
+body {
+  background-color: rgb(41, 32, 32) !important;
+}
+.navbar {
+  background-color: rgb(41, 32, 32);
+  text-align: center;
+  max-height: 55px;
+}
+.mynavbar {
+  width: 100%;
+}
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  letter-spacing: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: all 500ms;
+}
+.link:hover {
+  color: aquamarine;
+  letter-spacing: 2px;
+  font-size: 26px;
+  font-size-adjust: 40px;
+  text-shadow: 0px 0px 3px gold, 0px 0px 3px grey;
+}
+.welcome-section {
+  width: 100%;
+  height: 120px;
+}
+
+.black {
+  max-height: 150px;
+  box-shadow: 0px 0px 20px black;
+  background-color: rgb(7, 3, 3);
+  text-align: center;
+}
+.black h1 {
+  font-size: 62px;
+  color: goldenrod;
+}
+.black p {
+  font-size: 26px;
+  animation: a1 2s linear infinite;
+  color: pink;
+  text-decoration: overline;
+}
+@keyframes a1 {
+  0% {
+    transform: translateX(15px);
+  }
+  50% {
+    color: pink;
+    transform: translateX(-15px);
+  }
+  100% {
+    transform: translateX(15px);
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    max-height: 75px;
+  }
+  .link {
+    font-size: 17px !important;
+  }
+  .black {
+    max-height: 150px;
+  }
+  .black h1 {
+    font-size: 52px;
+  }
+  .black p {
+    font-size: 26px;
+    animation: a1 1s linear infinite;
+    color: black;
+    text-decoration: overline;
+  }
+  @keyframes a1 {
+    0% {
+      font-size: 26px;
+    }
+    50% {
+      font-size: 22px;
+      color: pink;
+    }
+    100% {
+      font-size: 26px;
+    }
+  }
+}
+#contact {
+  background-color: black;
+  box-shadow: 0px 0px 10px black;
+}
+#contact h2 {
+  font-size: 55px;
+  text-decoration: none;
+  color: green;
+  font-style: italic;
+  text-align: center;
+  font-size: 45px;
+
+  font-weight: bolder;
+  animation: a2 2s linear infinite;
+}
+.contact-links a {
+  text-decoration: none;
+  display: inline-block !important;
+  color: goldenrod !important;
+  font-size: 1.4rem;
+  text-shadow: 2px 2px 1px #1f1f1f;
+  transition: transform 0.3s ease-out;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.contact-links a:hover {
+  transform: translateX(8px);
+  color: brown !important;
+}
+
+.white {
+  color: rgb(97, 252, 255);
+  background-color: rgb(41, 32, 32);
+}
+.white h1 {
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: -1px;
+  text-align: center;
+  font-weight: bolder;
+  text-shadow: 0px 0px 1px grey, 0px 0px 2px pink;
+}
+.white ol {
+  text-align: center;
+}
+.white ol li {
+  font-size: 21px;
+  font-style: italic;
+  display: inline-block;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.about {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.about h1 {
+  font-size: 26px;
+  color: pink;
+}
+.about h2 {
+  font-size: 26px;
+  color: rgb(236, 163, 175);
+}
+.about h3 {
+  font-size: 24px;
+  color: rgb(180, 131, 139);
+}
+.about h4 {
+  font-size: 22px;
+  color: rgb(109, 76, 82);
+}
+.about h5 {
+  font-size: 20px;
+  color: rgb(102, 80, 83);
+}
+
+@media (max-width: 768px) {
+  .about {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+  }
+  .about h1 {
+    font-size: 22px;
+    color: pink;
+  }
+  .about h2 {
+    font-size: 22px;
+    color: rgb(236, 163, 175);
+  }
+  .about h3 {
+    font-size: 20px;
+    color: rgb(180, 131, 139);
+  }
+  .about h4 {
+    font-size: 20px;
+    color: rgb(109, 76, 82);
+  }
+  .about h5 {
+    font-size: 18px;
+    color: rgb(102, 80, 83);
+  }
+}
+.bigcontact h2 {
+  font-style: italic;
+  text-align: center;
+  font-size: 45px;
+  text-transform: uppercase;
+  font-family: monospace;
+  font-weight: bolder;
+  animation: a2 2s linear infinite;
+}
+@keyframes a2 {
+  0% {
+  }
+  50% {
+    transform: translateY(12px);
+  }
+  100% {
+  }
+}
+.products h1 {
+  padding-top: 25px;
+  color: white;
+  font-size: 22px;
+  opacity: 0.5;
+}
+.card {
+  margin-top: 10px;
+  opacity: 0.5 !important;
+  max-width: 100%;
+}
+.card:hover {
+  opacity: 0.7 !important;
+  transition: 0.5s;
+  box-shadow: 0px 0px 5px, 0px 0px 15px yellow;
+}
+.card {
+  background-color: black !important;
+}
+.card-title {
+  line-height: 3px;
+}
+.products a {
+  text-decoration: none;
+  color: white !important;
+  text-align: center;
+  font-family: monospace;
+  letter-spacing: 0.1px;
+  text-shadow: 0px 0px 5px grey, 0px 0px 5px white;
+}
+
+.products h1 {
+  font-family: monospace;
+  animation: amoonwalk 3s linear infinite;
+}
+
+@keyframes amoonwalk {
+  0% {
+    opacity: 1;
+  }
+  25% {
+    transform: translateX(-10px);
+    opacity: 0.8;
+  }
+  50% {
+    transform: translateX(10px);
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.white li {
+  color: green !important;
+}
